@@ -1,0 +1,3 @@
+autre fichier
+ligne 2
+ligne 3
