@@ -8,3 +8,7 @@ ligne 7
 ligne 8
 
 ceci est un test sur les branches
+
+première résolution de conflit
+
+essayons d'ajouter deux choses différentes afin de tout garder en termes de modification...
