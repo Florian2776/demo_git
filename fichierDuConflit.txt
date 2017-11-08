@@ -1,1 +1,4 @@
 Maintenant, je vais marquer un autre truc depuis la branche master 
+J'écris un truc à partir de ma-branche
+
+Résolution du conflit, je garde les deux modifications
